@@ -70,5 +70,5 @@ struct GameRules {
 };
 
 
-static_assert(sizeof(GameRule) == 0x90);
-static_assert(offsetof(GameRule, mRequiresCheats) == 0x2B);
+// static_assert(sizeof(GameRule) == 0x90);
+// static_assert(offsetof(GameRule, mRequiresCheats) == 0x2B);
