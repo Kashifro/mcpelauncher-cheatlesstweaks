@@ -27,8 +27,8 @@ Download the built `.so` file from **Releases** and place it into the `mods` dir
 ![CheatlessTweaks](3.png)
 
 ```mcfunction
-/gamerule mobGriefing false
-/gamerule keepInventory true
+/gamerule mobgriefing false
+/gamerule keepinventory true
 ```
 
 ## Building
